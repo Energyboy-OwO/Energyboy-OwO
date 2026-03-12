@@ -1,24 +1,108 @@
-<h1 align="center">Hiya, I'm Energyboy :3</h1>
-<h3 align="center">meow meow meow meow meow meow meow meow</h3>
+<!--
+  hi you found the source code. ur nosy. i respect it
+-->
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord.gg/c75VD7EgMH) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/energ1boy) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Energyboy-OwO) 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=header" width="100%"/>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TimurHromek&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TimurHromek&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TimurHromek&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TimurHromek&limit=5&theme=dark&combine_all_yearly_contributions=true)
+# ✦ Energyboy :3 ✦
+
+*16 · he/him · gay · spain 🇪🇸*
+
+`energ1boy` everywhere that counts
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TimurHromek&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://ko-fi.com/ko-fi.com/energyboyowo](https://ko-fi.com/energyboyowo)) 
+```
+ ╭──────────────────────────────────────────╮
+ │  currently: probably breaking something  │
+ │  mood: ☁️ sleepy but in a good way        │
+ │  listening to: something gay probably    │
+ │  thinking about: neural networks again   │
+ ╰──────────────────────────────────────────╯
+```
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### who am i
+
+hey :3 i like building things. websites, servers, little ai experiments at 2am. self-hosting stuff under **hromek.cloud** because i genuinely enjoy it and also because paying for things is cringe.
+
+currently really into machine learning and ai. the kind of person who goes down a rabbit hole reading papers and emerges 3 hours later with more questions than answers. i think that's normal.
+
+---
+
+### stuff i know / am learning
+
+```js
+const me = {
+  languages  : ["python", "javascript", "html/css"],
+  ml         : ["pytorch", "tensorflow", "numpy"],
+  infra      : ["docker", "cloudflare", "wireguard", "vercel"],
+  selfhosted : ["home assistant", "jellyfin", "pihole", "hromek.cloud"],
+  databases  : ["mongodb", "mysql"],
+  hardware   : ["raspberry pi", "nvidia gpu", "amd"],
+  always     : "googling something"
+}
+```
+
+---
+
+### the stack
+
+**ai / ml**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+**web & backend**
+
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/flask-000000?style=flat-square&logo=flask&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**databases**
+
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**infra & selfhosting**
+
+![Docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![WireGuard](https://img.shields.io/badge/wireguard-88171A?style=flat-square&logo=wireguard&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/raspberry%20pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/home%20assistant-41BDF5?style=flat-square&logo=homeassistant&logoColor=white)
+![Jellyfin](https://img.shields.io/badge/jellyfin-00A4DC?style=flat-square&logo=jellyfin&logoColor=white)
+![Pi-hole](https://img.shields.io/badge/pihole-96060C?style=flat-square&logo=pihole&logoColor=white)
+
+**tools & hardware**
+
+![Git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/nvidia-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![AMD](https://img.shields.io/badge/amd-ED1C24?style=flat-square&logo=amd&logoColor=white)
+
+---
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Energyboy-OwO&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=ff6eb4&icon_color=a78bfa&text_color=e2e8f0&ring_color=ff6eb4)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=80&section=footer"/>
+</div>
+
+<!--
+  🏳️‍🌈 the gay agenda: learn cool stuff, build cool stuff, be happy
+  that's literally it
+-->
